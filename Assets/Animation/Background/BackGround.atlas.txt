@@ -1,0 +1,297 @@
+
+BackGround.png
+size: 19890,4506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon
+  rotate: true
+  xy: 2225, 4131
+  size: 373, 439
+  orig: 374, 440
+  offset: 1, 1
+  index: -1
+BigWheel_Cup_1
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_10
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_11
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_12
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_13
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_14
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_15
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_2
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_3
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_4
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_5
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_6
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_7
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_8
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Cup_9
+  rotate: false
+  xy: 17668, 4115
+  size: 484, 389
+  orig: 510, 416
+  offset: 13, 12
+  index: -1
+BigWheel_Support
+  rotate: false
+  xy: 9953, 1962
+  size: 3841, 2167
+  orig: 3907, 2221
+  offset: 33, 24
+  index: -1
+BigWheel_Wheel
+  rotate: false
+  xy: 13796, 1081
+  size: 3057, 3048
+  orig: 3059, 3050
+  offset: 1, 1
+  index: -1
+Column
+  rotate: true
+  xy: 18781, 4027
+  size: 477, 1107
+  orig: 493, 1117
+  offset: 11, 5
+  index: -1
+MerryGoRound_Column
+  rotate: false
+  xy: 7200, 2443
+  size: 2751, 1686
+  orig: 2798, 1714
+  offset: 24, 1
+  index: -1
+MerryGoRound_Merry_1
+  rotate: true
+  xy: 2, 3625
+  size: 572, 1325
+  orig: 598, 1362
+  offset: 7, 22
+  index: -1
+MerryGoRound_Merry_2
+  rotate: true
+  xy: 2, 3625
+  size: 572, 1325
+  orig: 598, 1362
+  offset: 7, 22
+  index: -1
+MerryGoRound_Merry_3
+  rotate: true
+  xy: 1329, 3557
+  size: 572, 1325
+  orig: 598, 1362
+  offset: 19, 22
+  index: -1
+MerryGoRound_Merry_4
+  rotate: true
+  xy: 1329, 3557
+  size: 572, 1325
+  orig: 598, 1362
+  offset: 19, 22
+  index: -1
+MerryGoRound_Roof
+  rotate: false
+  xy: 3274, 3196
+  size: 2818, 933
+  orig: 2818, 933
+  offset: 0, 0
+  index: -1
+Parasol
+  rotate: true
+  xy: 6094, 3062
+  size: 1067, 1104
+  orig: 1123, 1168
+  offset: 28, 33
+  index: -1
+Platform_1
+  rotate: false
+  xy: 18154, 4103
+  size: 625, 401
+  orig: 632, 409
+  offset: 3, 4
+  index: -1
+Platform_2
+  rotate: false
+  xy: 2, 4203
+  size: 633, 301
+  orig: 643, 310
+  offset: 5, 5
+  index: -1
+RollerCoaster_1
+  rotate: false
+  xy: 1839, 4139
+  size: 384, 365
+  orig: 409, 407
+  offset: 21, 20
+  index: -1
+RollerCoaster_2
+  rotate: false
+  xy: 1839, 4139
+  size: 384, 365
+  orig: 409, 407
+  offset: 21, 20
+  index: -1
+RollerCoaster_3
+  rotate: false
+  xy: 1839, 4139
+  size: 384, 365
+  orig: 409, 407
+  offset: 21, 20
+  index: -1
+RollerCoaster_4
+  rotate: false
+  xy: 1839, 4139
+  size: 384, 365
+  orig: 409, 407
+  offset: 21, 20
+  index: -1
+RollerCoaster_Chain
+  rotate: false
+  xy: 2, 2
+  size: 6237, 3058
+  orig: 6268, 3088
+  offset: 30, 1
+  index: -1
+Sign
+  rotate: true
+  xy: 2656, 3536
+  size: 593, 616
+  orig: 599, 622
+  offset: 3, 3
+  index: -1
+Wall
+  rotate: true
+  xy: 637, 4199
+  size: 305, 1200
+  orig: 310, 1204
+  offset: 1, 1
+  index: -1
+ground
+  rotate: false
+  xy: 2666, 4131
+  size: 15000, 373
+  orig: 15002, 378
+  offset: 1, 1
+  index: -1
+
+BackGround2.png
+size: 13456,2988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Stars
+  rotate: false
+  xy: 2, 2
+  size: 13452, 2984
+  orig: 13526, 3076
+  offset: 37, 36
+  index: -1
+
+BackGround3.png
+size: 14872,3809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BackGround
+  rotate: false
+  xy: 2, 2
+  size: 14868, 3805
+  orig: 14870, 3807
+  offset: 1, 1
+  index: -1
+
+BackGround4.png
+size: 15004,4004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hill
+  rotate: false
+  xy: 2, 2
+  size: 15000, 4000
+  orig: 15002, 4002
+  offset: 1, 1
+  index: -1

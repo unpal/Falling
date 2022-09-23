@@ -1,0 +1,174 @@
+
+Character.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Balloon
+  rotate: true
+  xy: 2, 2
+  size: 374, 439
+  orig: 374, 440
+  offset: 0, 1
+  index: -1
+Balloon_Piece_1
+  rotate: true
+  xy: 806, 141
+  size: 73, 72
+  orig: 75, 74
+  offset: 1, 1
+  index: -1
+Balloon_Piece_2
+  rotate: true
+  xy: 880, 132
+  size: 82, 71
+  orig: 84, 73
+  offset: 1, 1
+  index: -1
+Balloon_Piece_3
+  rotate: false
+  xy: 723, 66
+  size: 62, 69
+  orig: 64, 71
+  offset: 1, 1
+  index: -1
+Balloon_Piece_4
+  rotate: true
+  xy: 723, 137
+  size: 77, 81
+  orig: 79, 83
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 723, 216
+  size: 160, 249
+  orig: 205, 254
+  offset: 38, 5
+  index: -1
+Body_Woter_1
+  rotate: false
+  xy: 1728, 196
+  size: 71, 51
+  orig: 75, 57
+  offset: 2, 4
+  index: -1
+Body_Woter_2
+  rotate: true
+  xy: 1690, 157
+  size: 36, 27
+  orig: 40, 30
+  offset: 2, 1
+  index: -1
+Dead_Effect
+  rotate: false
+  xy: 2, 378
+  size: 1772, 1663
+  orig: 1881, 1701
+  offset: 56, 1
+  index: -1
+Eye
+  rotate: false
+  xy: 1643, 140
+  size: 45, 53
+  orig: 54, 59
+  offset: 6, 3
+  index: -1
+Head
+  rotate: false
+  xy: 443, 115
+  size: 278, 261
+  orig: 281, 264
+  offset: 2, 2
+  index: -1
+Head_Woter_1
+  rotate: true
+  xy: 1743, 166
+  size: 28, 22
+  orig: 31, 25
+  offset: 1, 2
+  index: -1
+Head_Woter_2
+  rotate: false
+  xy: 1643, 195
+  size: 83, 52
+  orig: 87, 56
+  offset: 1, 1
+  index: -1
+Head_Woter_3
+  rotate: true
+  xy: 1801, 184
+  size: 63, 35
+  orig: 65, 39
+  offset: 1, 2
+  index: -1
+L_Arm
+  rotate: true
+  xy: 443, 32
+  size: 81, 277
+  orig: 81, 277
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: true
+  xy: 974, 171
+  size: 159, 330
+  orig: 159, 336
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 1643, 249
+  size: 81, 276
+  orig: 81, 276
+  offset: 0, 0
+  index: -1
+R_Arm_Woter_1
+  rotate: false
+  xy: 806, 65
+  size: 71, 74
+  orig: 74, 74
+  offset: 3, 0
+  index: -1
+R_Arm_Woter_2
+  rotate: true
+  xy: 953, 186
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+R_Arm_Woter_3
+  rotate: true
+  xy: 953, 151
+  size: 33, 18
+  orig: 35, 21
+  offset: 1, 2
+  index: -1
+R_Leg
+  rotate: true
+  xy: 1306, 175
+  size: 155, 335
+  orig: 156, 339
+  offset: 1, 0
+  index: -1
+R_Leg_Woter_1
+  rotate: false
+  xy: 722, 36
+  size: 76, 28
+  orig: 82, 33
+  offset: 4, 2
+  index: -1
+R_Leg_Woter_2
+  rotate: true
+  xy: 1719, 163
+  size: 30, 22
+  orig: 32, 24
+  offset: 1, 1
+  index: -1
+rope
+  rotate: true
+  xy: 974, 332
+  size: 44, 914
+  orig: 46, 916
+  offset: 1, 1
+  index: -1

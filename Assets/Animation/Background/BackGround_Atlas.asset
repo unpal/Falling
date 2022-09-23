@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: BackGround_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 7313893992cc6bf4a8eb74f13db23a24, type: 3}
+  materials:
+  - {fileID: 2100000, guid: a3cb625b15263c6489504553ed5962cd, type: 2}
+  - {fileID: 2100000, guid: 5812154f195dc474698dcaaa2cdf92af, type: 2}
+  - {fileID: 2100000, guid: 84eadc77b599e5f4e90c56d4c6c76437, type: 2}
+  - {fileID: 2100000, guid: 121ac8d4170b90e458e15f955cbd747b, type: 2}
